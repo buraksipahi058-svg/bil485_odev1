@@ -1,0 +1,131 @@
+{
+  "model": "deep_512-256-128",
+  "input": "handwriting/numara.jpg",
+  "n_digits": 11,
+  "predicted": "23120205082",
+  "expected": "23120205088",
+  "accuracy": 0.9090909090909091,
+  "per_digit": [
+    {
+      "index": 0,
+      "label": 2,
+      "pred": 2,
+      "confidence": 0.9915536046028137,
+      "top3": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "index": 1,
+      "label": 3,
+      "pred": 3,
+      "confidence": 0.6312665343284607,
+      "top3": [
+        3,
+        5,
+        9
+      ]
+    },
+    {
+      "index": 2,
+      "label": 1,
+      "pred": 1,
+      "confidence": 0.9995564818382263,
+      "top3": [
+        1,
+        7,
+        4
+      ]
+    },
+    {
+      "index": 3,
+      "label": 2,
+      "pred": 2,
+      "confidence": 0.9796323180198669,
+      "top3": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "index": 4,
+      "label": 0,
+      "pred": 0,
+      "confidence": 0.9980722665786743,
+      "top3": [
+        0,
+        5,
+        9
+      ]
+    },
+    {
+      "index": 5,
+      "label": 2,
+      "pred": 2,
+      "confidence": 0.9999481439590454,
+      "top3": [
+        2,
+        3,
+        7
+      ]
+    },
+    {
+      "index": 6,
+      "label": 0,
+      "pred": 0,
+      "confidence": 0.9835976958274841,
+      "top3": [
+        0,
+        9,
+        5
+      ]
+    },
+    {
+      "index": 7,
+      "label": 5,
+      "pred": 5,
+      "confidence": 0.9976392984390259,
+      "top3": [
+        5,
+        3,
+        8
+      ]
+    },
+    {
+      "index": 8,
+      "label": 0,
+      "pred": 0,
+      "confidence": 0.9989163875579834,
+      "top3": [
+        0,
+        9,
+        6
+      ]
+    },
+    {
+      "index": 9,
+      "label": 8,
+      "pred": 8,
+      "confidence": 0.6120738387107849,
+      "top3": [
+        8,
+        2,
+        3
+      ]
+    },
+    {
+      "index": 10,
+      "label": 8,
+      "pred": 2,
+      "confidence": 0.8970120549201965,
+      "top3": [
+        2,
+        8,
+        3
+      ]
+    }
+  ]
+}
